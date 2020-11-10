@@ -302,7 +302,7 @@ footer {
     }
     
     .menu-wrap {
-        width: 110vw;
+        width: 100vw;
         height: 80px;
         display: block;
         position: fixed;
@@ -448,11 +448,11 @@ footer {
     main {
         margin-top: 56px;
         box-sizing: border-box;
-        width: 110vw;
+        width: 100vw;
         height: 450px;
 
         .main__contenedor {
-            width: 110vw;
+            width: 100vw;
             height: 450px;
             background-image: url(../imgs/imagen-index.jpg);
             background-size: cover;
@@ -486,7 +486,7 @@ footer {
     }
 
     section {
-        width: 110vw;
+        width: 100vw;
         height: 800px;
 
         h2 {
@@ -545,15 +545,9 @@ footer {
     }
 
     .section2 {
-        width: 110vw;
+        width: 100vw;
         height: 500px;
     }
-
-    .section__carousel {
-        width: 110vw;
-        height: 250px;
-    }
-
 
     footer {
         width: 100%;
