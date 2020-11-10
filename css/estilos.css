@@ -411,6 +411,9 @@ footer {
       text-align: center;
       font-size: 20px;
       text-decoration: none; }
+    .section__descargas .cv:hover {
+      background-color: none;
+      color: #1d2129; }
   #herramientas {
     columns: 2; } }
 

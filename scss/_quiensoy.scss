@@ -240,6 +240,11 @@
             font-size: 20px;
             text-decoration: none;
         }
+
+        .cv:hover {
+            background-color: none;
+            color: $negro-fondo;
+        }
     }
 
     #herramientas {
