@@ -471,7 +471,7 @@ h2 {
 
 @media only screen and (max-width: 420px) {
   .main__servicios {
-    width: 110vw;
+    width: 100vw;
     height: 1950px;
     background-color: #e4e4e4;
     border: #e4e4e4;
@@ -484,7 +484,7 @@ h2 {
     margin-right: auto;
     text-align: center; }
   .servicios__container {
-    width: 110vw;
+    width: 100vw;
     height: 1800px; }
   .servicios__iconContainer {
     width: 95%;
