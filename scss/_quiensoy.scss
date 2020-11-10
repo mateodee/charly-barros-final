@@ -103,16 +103,23 @@
         padding: 12px;
         border: solid 2px $negro-fondo;
         border-radius: 5px;
-        color: $negro-fondo;
         text-align: center;
-        font-size: 20px;
-        text-decoration: none;
+       
+        a {
+            color: $negro-fondo;
+            font-size: 20px;
+            text-decoration: none;
+        }
     }
-}
 
-.cv:hover {
-    background-color: $color-principal;
-    color: #e4e4e4;
+    .cv:hover {
+        background-color: $color-principal;
+        text-decoration: none;
+
+        a{
+            color: #fff;
+        }
+    }
 }
 
 #herramientas {
@@ -122,6 +129,7 @@
 #idiomas {
     width: 250px;
 }
+
 
 @media only screen and (max-width: 420px) {
 
