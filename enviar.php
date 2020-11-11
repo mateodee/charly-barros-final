@@ -8,5 +8,5 @@
     $contenido = "Nombre: " . $nombre . "\nEmail:  " . $email . "\nComo te puedo ayudar: " . $mensaje . "\nComo me encontraste: " . $selector;
 
     mail($destino, "Contacto", $contenido);
-    header("location:../gracias.html");
+    header("location:gracias.html");
 ?>
